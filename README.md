@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikaYallina
-- 👀 I’m interested in learning the ins and outs of frontend
-- 🌱 I’m currently learning Vue.js and all of its many libraries
+- 👀 I’m interested in learning the mobile development.. slowly but surely I will get there!
+- 🌱 I’m currently learning Android native and would like to become a mobile dev
 - 💞️ I’m looking to collaborate on nothing.. for now at least :)
 - 📫 How to reach me ...
 
