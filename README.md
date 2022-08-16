@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning the mobile development.. slowly but surely I will get there!
 - 🌱 I’m currently learning Android native and would like to become a mobile dev
 - 💞️ I’m looking to collaborate on nothing.. for now at least :)
-- 📫 How to reach me ...
+- 📫 How to reach me: vicka.vicka.vicka111@gmail.com
 
 <!---
 VikaYallina/VikaYallina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
